@@ -1,4 +1,4 @@
-<a href="webp">
+<a href="https://github.com/simongravelle">
   <img src="https://raw.githubusercontent.com/simongravelle/simongravelle/main/webp/dancingmolecules.webp" align="right" width="20%"/>
 </a>
 
