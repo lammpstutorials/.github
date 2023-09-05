@@ -1,5 +1,5 @@
 <a href="https://github.com/simongravelle">
-  <img src="https://raw.githubusercontent.com/simongravelle/simongravelle/main/png/molecules-ions.png" align="right" width="20%"/>
+  <img src="https://raw.githubusercontent.com/simongravelle/simongravelle/main/png/molecules-ions.png" align="right" width="12%"/>
 </a>
 
 # LAMMPS tutorials
