@@ -6,4 +6,5 @@
 
 ### by [Simon Gravelle](https://github.com/simongravelle), LIPhy, Grenoble, France
 
-Material and guide for beginners and advanced LAMMPS users. The website can be accessed [here](https://lammpstutorials.github.io/).
+Material and guide for beginners and advanced LAMMPS users.
+The LAMMPS tutorials website can be accessed [here](https://lammpstutorials.github.io/).
