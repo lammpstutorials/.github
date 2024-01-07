@@ -2,7 +2,7 @@
 
 Material and guide for beginners and advanced LAMMPS users.
 The main LAMMPS tutorials website can be accessed [here](https://lammpstutorials.github.io/),
-and the input and LAMMPS scripts are provided in [this repository](https://github.com/lammpstutorials/lammpstutorials-inputs).
+and the LAMMPS inputs and scripts are provided in [this repository](https://github.com/lammpstutorials/lammpstutorials-inputs).
 
 <p float="left">
     <a href="https://lammpstutorials.github.io/sphinx/build/html/tutorials/level1/lennard-jones-fluid.html">
