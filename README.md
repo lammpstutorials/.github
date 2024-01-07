@@ -1,9 +1,8 @@
 # LAMMPS tutorials
 
-### by [Simon Gravelle](https://github.com/simongravelle), LIPhy, Grenoble, France
-
 Material and guide for beginners and advanced LAMMPS users.
-The LAMMPS tutorials website can be accessed [here](https://lammpstutorials.github.io/).
+The main LAMMPS tutorials website can be accessed [here](https://lammpstutorials.github.io/),
+and the input and LAMMPS scripts are provided in [this repository](https://github.com/lammpstutorials/lammpstutorials-inputs).
 
 <p float="left">
     <a href="https://lammpstutorials.github.io/sphinx/build/html/tutorials/level1/lennard-jones-fluid.html">
@@ -16,3 +15,8 @@ The LAMMPS tutorials website can be accessed [here](https://lammpstutorials.gith
         <img src="https://raw.githubusercontent.com/lammpstutorials/lammpstutorials.github.io/version2.0/docs/avatars/level3/water-adsorption-in-silica/water-adsorption.png" width="32%" />
     </a>
 </p>
+
+## Author
+
+[Simon Gravelle](https://github.com/simongravelle) from LIPhy, CNRS/UGA, France
+
