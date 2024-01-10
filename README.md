@@ -2,7 +2,8 @@
 
 Material and guide for beginners and advanced LAMMPS users.
 The main LAMMPS tutorials website can be accessed [here](https://lammpstutorials.github.io/),
-and the LAMMPS inputs and scripts are provided in [this repository](https://github.com/lammpstutorials/lammpstutorials-inputs).
+the LAMMPS inputs and scripts are provided in [this repository](https://github.com/lammpstutorials/lammpstutorials-inputs),
+and the functions used for the Pyplot/Python figures are given [here](https://github.com/simongravelle/pyplot-perso).
 
 <p float="left">
     <a href="https://lammpstutorials.github.io/sphinx/build/html/tutorials/level1/lennard-jones-fluid.html">
