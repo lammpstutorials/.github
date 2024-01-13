@@ -2,8 +2,7 @@
 
 Material and guide for beginners and advanced LAMMPS users.
 The main LAMMPS tutorials website can be accessed [from this page](https://lammpstutorials.github.io/),
-the LAMMPS inputs and scripts are provided in [a dedicated repository](https://github.com/lammpstutorials/lammpstutorials-inputs),
-and the functions used for the Pyplot/Python figures are available [here](https://github.com/simongravelle/pyplot-perso).
+and the functions used for the Matplotlib graphs are available [here](https://github.com/simongravelle/pyplot-perso).
 
 <p float="left">
     <a href="https://lammpstutorials.github.io/sphinx/build/html/tutorials/level1/lennard-jones-fluid.html">
@@ -16,6 +15,16 @@ and the functions used for the Pyplot/Python figures are available [here](https:
         <img src="https://raw.githubusercontent.com/lammpstutorials/lammpstutorials.github.io/version2.0/docs/avatars/level3/water-adsorption-in-silica/water-adsorption.png" width="32%" />
     </a>
 </p>
+
+## Find the inputs
+
+The LAMMPS inputs are provided in [a dedicated repository](https://github.com/lammpstutorials/lammpstutorials-inputs),
+together with the data files, scripts, and parameter files.
+
+## Download the living ebook
+
+LAMMPS tutorials also exists as a [living ebook](https://github.com/lammpstutorials/lammpstutorials-ebook),
+which is compiled directly from the [website](https://lammpstutorials.github.io/). 
 
 ## Author
 
