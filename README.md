@@ -16,7 +16,7 @@ and the functions used for the Matplotlib graphs are available [here](https://gi
     </a>
 </p>
 
-## Find the inputs
+## Find all the inputs
 
 The LAMMPS inputs are provided in [a dedicated repository](https://github.com/lammpstutorials/lammpstutorials-inputs),
 together with the data files, scripts, and parameter files.
