@@ -1,6 +1,6 @@
 # LAMMPS tutorials
 
-Material and guide for beginners and advanced LAMMPS users.
+Material and guides for beginners LAMMPS users.
 The main LAMMPS tutorials website can be accessed [from this page](https://lammpstutorials.github.io/),
 and the functions used for the Matplotlib graphs are available [here](https://github.com/simongravelle/pyplot-perso).
 
