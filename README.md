@@ -16,6 +16,8 @@ and the functions used for the Matplotlib graphs are available [here](https://gi
     </a>
 </p>
 
+Figure: (left) Lennard-Jones fluid mixture (middle) Carbon nanotube (right) Water molecules in a cracked silica
+
 ## Find all the inputs
 
 The LAMMPS inputs are provided in [a dedicated repository](https://github.com/lammpstutorials/lammpstutorials-inputs),
