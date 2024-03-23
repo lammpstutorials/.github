@@ -30,4 +30,4 @@ which is compiled directly from the [website](https://lammpstutorials.github.io/
 
 ## Author
 
-[Simon Gravelle](https://github.com/simongravelle) from LiPhy, UGA, CNRS, France
+[Simon Gravelle](https://github.com/simongravelle) from LiPhy, UGA, CNRS, France.
