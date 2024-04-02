@@ -1,7 +1,7 @@
 # LAMMPS tutorials
 
 Material and guides for beginner LAMMPS users.
-The main LAMMPS tutorials website can be accessed [from this page](https://lammpstutorials.github.io/),
+The main website can be accessed [from this page](https://lammpstutorials.github.io/),
 and the functions used for the Matplotlib graphs are available [here](https://github.com/simongravelle/pyplot-perso).
 
 <p float="left">
@@ -25,8 +25,8 @@ together with the data files, scripts, and parameter files.
 
 ## Download the living ebook
 
-LAMMPS tutorials also exists as a free and open [living ebook](https://github.com/lammpstutorials/lammpstutorials-ebook),
-which is compiled directly from the [website](https://lammpstutorials.github.io/). 
+*LAMMPS tutorials* also exists as a free and open [living ebook](https://github.com/lammpstutorials/lammpstutorials-ebook),
+a LaTeX document that is compiled directly from the [website](https://lammpstutorials.github.io/). 
 
 ## Author
 
