@@ -23,11 +23,6 @@ Figure: (left) Lennard-Jones fluid mixture (middle) Carbon nanotube (right) Wate
 The LAMMPS inputs are provided in [a dedicated repository](https://github.com/lammpstutorials/lammpstutorials-inputs),
 together with the data files, scripts, and parameter files.
 
-## Download the living ebook
-
-*LAMMPS tutorials* also exists as a free and open [living ebook](https://github.com/lammpstutorials/lammpstutorials-ebook),
-a LaTeX document that is compiled directly from the [website](https://lammpstutorials.github.io/). 
-
 ## Author
 
 [Simon Gravelle](https://github.com/simongravelle) from LiPhy, UGA, CNRS, France.
