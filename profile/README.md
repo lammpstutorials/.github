@@ -1,4 +1,4 @@
-# LAMMPS tutorials
+# LAMMPS tutorials ![GitHub Org's stars](https://img.shields.io/github/stars/lammpstutorials?style=for-the-badge)
 
 Material and guides for beginner LAMMPS users.
 The main website can be accessed [from this page](https://lammpstutorials.github.io/),
