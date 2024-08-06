@@ -31,7 +31,7 @@ An article is in preparation, it can be found [here](https://github.com/lammpstu
 
 ### Project creator
 
-- Simon Gravelle](https://github.com/simongravelle), LiPhy, UGA, CNRS, France.
+- [Simon Gravelle](https://github.com/simongravelle), LiPhy, UGA, CNRS, France.
 
 ### Contributors
 
