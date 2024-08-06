@@ -23,6 +23,17 @@ Figure: (left) Lennard-Jones fluid mixture (middle) Carbon nanotube (right) Wate
 The LAMMPS inputs are provided in [a dedicated repository](https://github.com/lammpstutorials/lammpstutorials-inputs),
 together with the data files, scripts, and parameter files.
 
-## Author
+## The article
 
-[Simon Gravelle](https://github.com/simongravelle) from LiPhy, UGA, CNRS, France.
+An article is in preparation, it can be found [here](https://github.com/lammpstutorials/lammpstutorials-article).
+
+## People involved
+
+### Project creator
+
+- Simon Gravelle](https://github.com/simongravelle), LiPhy, UGA, CNRS, France.
+
+### Contributors
+
+- Jacob R. Gissinger, Stevens Institute of Technology, Hoboken, NJ 07030, USA.
+- Axel Kohlmeyer, Institute for Computational Molecular Science, Temple University, Philadelphia, PA 19122, USA.
