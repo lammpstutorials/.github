@@ -1,3 +1,0 @@
-LAMMPS tutorials
-================
-
