@@ -6,12 +6,14 @@ the  README.md, modify the files listed in
 "files.txt", or add a new file to the list in "files.txt".
 -->
 
+
 # LAMMPS tutorials' special repository
 
 The content of the profile/README.md appears on the GitHub profile of the
 [LAMMPS tutorials organization](https://github.com/lammpstutorials).
 This repository also contains the list of [authors](AUTHORS.md) from the
-LAMMPS tutorials initiative.
+LAMMPS tutorials initiative, as well as a list of [Acknowledgements](ACKNOWLEDGEMENTS.md).
+
 
 ## Authors
 
@@ -25,6 +27,7 @@ LAMMPS tutorials initiative.
 - [Axel Kohlmeyer](https://sites.google.com/site/akohlmey), Institute for Computational Molecular Science, Temple University, Philadelphia, PA 19122, USA
 
 
+
 ## Acknowledgements
 
 - Simon Gravelle acknowledges funding from the European Union's Horizon 2020
@@ -32,4 +35,5 @@ LAMMPS tutorials initiative.
   agreement N°101065060$. 
 - Axel Kohlmeyer acknowledges financial support by Sandia National Laboratories
   under POs 2149742 and 2407526.
+  
 
