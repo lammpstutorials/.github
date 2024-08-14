@@ -8,12 +8,12 @@ the [LAMMPS tutorials organization](https://github.com/lammpstutorials).
 
 ## Authors
 
-Project creator \~\~\~\~\~\~\~\~\~\~\~\~\~\~\~
+### Project creator
 
 -   [Simon Gravelle](https://github.com/simongravelle), University
     Grenoble Alpes, CNRS, LIPhy, Grenoble, 38000, France
 
-Contributors \~\~\~\~\~\~\~\~\~\~\~\~
+### Contributors
 
 -   Jacob R. Gissinger, Stevens Institute of Technology, Hoboken, NJ
     07030, USA

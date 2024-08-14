@@ -1,5 +1,4 @@
-LAMMPS tutorials' special repository
-====================================
+# LAMMPS tutorials' special repository
 
 This repository contains the list of [authors](AUTHORS.md) from the LAMMPS tutorials
 initiative.
