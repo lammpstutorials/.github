@@ -1,16 +1,19 @@
-# LAMMPS tutorials
+# LAMMPS tutorials' special repository
+
+This repository contains the list of [authors](AUTHORS.md) from the
+LAMMPS tutorials initiative.
 
 The content of the profile/README.md appears on the GitHub profile of
-the LAMMPS tutorials organization, see
+the [LAMMPS tutorials organization](https://github.com/lammpstutorials).
 
-# Authors
+## Authors
 
-## Project creator
+Project creator \~\~\~\~\~\~\~\~\~\~\~\~\~\~\~
 
 -   [Simon Gravelle](https://github.com/simongravelle), University
     Grenoble Alpes, CNRS, LIPhy, Grenoble, 38000, France
 
-## Contributors
+Contributors \~\~\~\~\~\~\~\~\~\~\~\~
 
 -   Jacob R. Gissinger, Stevens Institute of Technology, Hoboken, NJ
     07030, USA
