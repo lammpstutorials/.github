@@ -3,7 +3,7 @@
 ### Project creator
 
 - [Simon Gravelle](https://github.com/simongravelle),
-  University Grenoble Alpes, CNRS, LIPhy, Grenoble, 38000, France
+  Univ. Grenoble Alpes, CNRS, LIPhy, 38000 Grenoble, France
 
 ### Contributors
 
