@@ -1,0 +1,11 @@
+name: Simple Usage
+
+on: push
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: docker://pandoc/core:2.9
+        with:
+          args: "-s DESCRIPTION.rst AUTHORS.rst -o README.rst"
