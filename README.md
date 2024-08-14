@@ -9,23 +9,25 @@ the  README.md, modify the files listed in
 
 # LAMMPS tutorials' special repository
 
-<p align="justify"> 
 The content of the profile/README.md appears on the GitHub profile of the
 [LAMMPS tutorials organization](https://github.com/lammpstutorials).
 This repository also contains the list of [authors](AUTHORS.md) from the
 LAMMPS tutorials initiative, as well as a list of [Acknowledgements](ACKNOWLEDGEMENTS.md).
-</p>
 
 ## Authors
 
 ### Project creator
 
-[Simon Gravelle](https://github.com/simongravelle), University Grenoble Alpes, CNRS, LIPhy, Grenoble, 38000, France
+- [Simon Gravelle](https://github.com/simongravelle),
+  University Grenoble Alpes, CNRS, LIPhy, Grenoble, 38000, France
 
 ### Contributors
 
-- [Jacob R. Gissinger](https://www.stevens.edu/profile/jgissing), Stevens Institute of Technology, Hoboken, NJ 07030, USA
-- [Axel Kohlmeyer](https://sites.google.com/site/akohlmey), Institute for Computational Molecular Science, Temple University, Philadelphia, PA 19122, USA
+- [Jacob R. Gissinger](https://www.stevens.edu/profile/jgissing),
+  Stevens Institute of Technology, Hoboken, NJ 07030, USA
+- [Axel Kohlmeyer](https://sites.google.com/site/akohlmey),
+  Institute for Computational Molecular Science, Temple University, Philadelphia,
+  PA 19122, USA
 
 
 
@@ -33,8 +35,8 @@ LAMMPS tutorials initiative, as well as a list of [Acknowledgements](ACKNOWLEDGE
 
 - Simon Gravelle acknowledges funding from the European Union's Horizon 2020
   research and innovation programme under the Marie Skłodowska-Curie grant
-  agreement N°101065060$. 
+  agreement No 101065060$.
 - Axel Kohlmeyer acknowledges financial support by Sandia National Laboratories
   under POs 2149742 and 2407526.
-  
+
 
