@@ -1,12 +1,3 @@
-<!--
-WARNING: DO NOT MODIFY DIRECTLY THE README.md!
-This README.md file was assembled using the sed command from the files listed in
-"files.txt". See the script in "generateREADME.sh". To modify the content of 
-the  README.md, modify the files listed in "files.txt", or add a new file to the
-list in "files.txt".
--->
-
-
 # LAMMPS tutorials ![GitHub Org's stars](https://img.shields.io/github/stars/lammpstutorials?style=for-the-badge)
 
 Material and guides for LAMMPS beginner. The main website can be accessed
@@ -33,30 +24,3 @@ tutorial 2 (middle), and water molecules in a cracked silica from tutorial 6 (ri
 ## The article
 
 An article is in preparation, it can be found [here](https://github.com/lammpstutorials/lammpstutorials-article).
-
-## Authors
-
-### Project creator
-
-- [Simon Gravelle](https://github.com/simongravelle),
-  Univ. Grenoble Alpes, CNRS, LIPhy, 38000 Grenoble, France
-
-### Contributors
-
-- [Jacob R. Gissinger](https://www.stevens.edu/profile/jgissing),
-  Stevens Institute of Technology, Hoboken, NJ 07030, USA
-- [Axel Kohlmeyer](https://sites.google.com/site/akohlmey),
-  Institute for Computational Molecular Science, Temple University, Philadelphia,
-  PA 19122, USA
-
-
-
-## Acknowledgements
-
-- Simon Gravelle acknowledges funding from the European Union's Horizon 2020
-  research and innovation programme under the Marie Skłodowska-Curie grant
-  agreement No 101065060$.
-- Axel Kohlmeyer acknowledges financial support by Sandia National Laboratories
-  under POs 2149742 and 2407526.
-
-
