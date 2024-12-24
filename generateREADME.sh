@@ -7,7 +7,7 @@ files=()
 while IFS= read -r line
 do
   files+=("$line")
-done < "files.txt"
+done < ".files.txt"
 input_files="${files[@]}"
 
 # Loop through each file and append its content to the output file
