@@ -23,4 +23,9 @@ tutorial 2 (middle), and water molecules in a cracked silica from tutorial 6 (ri
 
 ## The article
 
-An article is in preparation, it can be found [here](https://github.com/lammpstutorials/lammpstutorials-article).
+An article can be found [here](https://github.com/lammpstutorials/lammpstutorials-article).
+If you use this work, please cite:
+
+> **A Set of Tutorials for the LAMMPS Simulation Package**  
+> arXiv:2503.14020 [physics.comp-ph]  
+> https://doi.org/10.48550/arXiv.2503.14020

@@ -30,14 +30,22 @@ the Matplotlib graphs are available [here](https://github.com/simongravelle/pypl
 Figure: Lennard-Jones fluid mixture from tutorial 1 (left), Carbon nanotube from
 tutorial 2 (middle), and water molecules in a cracked silica from tutorial 6 (right).
 
-## The article
+## Article
 
-An article is in preparation, it can be found [here](https://github.com/lammpstutorials/lammpstutorials-article).
+The manuscript is available [on GitHub](https://github.com/lammpstutorials/lammpstutorials-article).  
+If these tutorials are useful to you, please cite:
+
+> **A Set of Tutorials for the LAMMPS Simulation Package**  
+> *arXiv*: [2503.14020](https://arxiv.org/abs/2503.14020) [physics.comp-ph]  
+> [DOI: 10.48550/arXiv.2503.14020](https://doi.org/10.48550/arXiv.2503.14020)
+
 
 ## Authors
 
 - [Simon Gravelle](https://github.com/simongravelle) (corr. author),
   Université Grenoble Alpes, CNRS, LIPhy, 38000 Grenoble, France.
+- [Cecilia M. S. Alvares](https://github.com/cecimarques),
+  Department of Chemistry, University of Warwick, Coventry CV4 7AL, United Kingdom
 - [Jacob R. Gissinger](https://www.stevens.edu/profile/jgissing),
   Stevens Institute of Technology, Hoboken, NJ 07030, USA.
 - [Axel Kohlmeyer](https://sites.google.com/site/akohlmey),
