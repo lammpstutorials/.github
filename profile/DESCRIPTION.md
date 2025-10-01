@@ -23,9 +23,9 @@ tutorial 2 (middle), and water molecules in a cracked silica from tutorial 6 (ri
 
 ## The article
 
-An article can be found [here](https://github.com/lammpstutorials/lammpstutorials-article).
+An article can be found [here](https://livecomsjournal.org/index.php/livecoms/article/view/v6i1e3037).
 If you use this work, please cite:
 
-> **A Set of Tutorials for the LAMMPS Simulation Package**  
-> arXiv:2503.14020 [physics.comp-ph]  
-> https://doi.org/10.48550/arXiv.2503.14020
+> **A Set of Tutorials for the LAMMPS Simulation Package [Article v1.0]**
+> by Simon Gravelle, Cecilia M. S. Alvares, Jacob R. Gissinger, and Axel Kohlmeyer,  
+> published in *Living Journal of Computational Molecular Science (LiveCoMS)*, 6(1), 3037 (2025).
